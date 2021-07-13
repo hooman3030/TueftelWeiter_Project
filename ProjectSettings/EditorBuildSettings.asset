@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 051e78b0a931a9346bdaa6dcf14639bb
+  - enabled: 0
+    path: Assets/Scenes/MainScene.unity
+    guid: 4d344f5525b52a14ebca19aa8e010a43
+  - enabled: 0
+    path: Assets/Scenes/CableRiddleScene.unity
+    guid: 64a4d1eefc7c3464a9be194d2c2f04ea
+  - enabled: 0
+    path: Assets/Scenes/New Scene.unity
+    guid: 1a6df4ca30ced08429e1c475dc3aa1d6
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 0faecaae1463e6342ac7190f11d4c664, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 06bcc6e1f0872e445b62dbf5ec74940e, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 59215d199b83ca04e85cae2e21d85eb6, type: 2}
